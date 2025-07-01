@@ -1,0 +1,59 @@
+body{
+    color: rgb(162, 24, 167);
+    background-color: rgb(233, 223, 231);
+    font-family: arial;
+  }
+  ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center
+    padding:20px;
+  
+  }
+  a{
+    color: rgb(248, 242, 247);
+    text-decoration: none;
+  }
+  
+  img{
+    width: 150px;
+    height: 150;
+    border-radius: 50%;
+    border: 5px solid rgb(219, 214, 218) ;
+    text-align: center;
+  }
+ header img{
+    width: 150px;
+    height: 150;
+    border-radius: 50%;
+    border: 5px solid rgb(230, 225, 228) ;
+    text-align: center;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.centro{
+    text-align: center;
+}
+
+footer img{
+width:25px;
+height: 25px;
+border-radius: 50%;
+}
+footer a{
+  display: flex;
+  justify-content: space-between;
+
+}
+.estrutura {
+  padding: 0px 70px;
+}
+p {
+  text-align: justify; /* Justifica o texto */
+  margin-bottom: 20px;  /* Espaço entre os parágrafos */
+}
